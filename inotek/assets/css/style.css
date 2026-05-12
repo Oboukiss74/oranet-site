@@ -48,13 +48,13 @@
 ==================================*/
 /*------------------- 1.1. Variable-------------------*/
 :root {
-  --theme-color: #1053f3;
+  --theme-color: #7d2adc;
   --theme-color3: #061153;
   --title-color: var(--dark-color);
   --body-color: var(--gray-color);
   --dark-color: var(--theme-color3);
   --dark-color2: #09155c;
-  --dark-color3: #18225f;
+  --dark-color3: #291c3e;
   --dark-color4: #06134c;
   --gray-color: #a0a3b5;
   --gray-color2: #616161;
@@ -5220,7 +5220,7 @@ label.error {
 }
 
 .bg-theme3 {
-  background-color: var(--theme-color3) !important;
+  background-color: #ba95ed;
 }
 
 .bg-white {
