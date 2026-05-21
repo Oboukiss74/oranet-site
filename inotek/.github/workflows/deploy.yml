@@ -19,7 +19,7 @@ jobs:
           server: ${{ secrets.FTP_SERVER_ORANET }}
           username: ${{ secrets.FTP_USERNAME_ORANET }}
           password: ${{ secrets.FTP_PASSWORD_ORANET }}
-          server-dir: /public_html/oranet.ovisiondigital.com/boukiss226
+          server-dir: /public_html/oranet.ovisiondigital.com/boukiss226/
 
           exclude: |
             **/.git*
